@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A sleek and intuitive fitness app, offering personalized workout plans, real-time progress tracking, and goal setting to help users achieve their fitness goals.
+
+![Screenshot_20240724_133118](https://github.com/user-attachments/assets/6bb2f821-b90d-4e74-882d-ab2dac6a6318)
 
 A few resources to get you started if this is your first Flutter project:
 
