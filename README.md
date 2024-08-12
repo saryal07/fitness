@@ -6,7 +6,10 @@ A new Flutter project.
 
 A sleek and intuitive fitness app, offering personalized workout plans, real-time progress tracking, and goal setting to help users achieve their fitness goals.
 
-![][Screenshot_20240724_133118](https://github.com/user-attachments/assets/6bb2f821-b90d-4e74-882d-ab2dac6a6318 =250x250)
+![Screenshot_20240724_133118](https://github.com/user-attachments/assets/01386f60-e81e-4065-9645-9beeac39929d)
+
+<img src="https://github.com/user-attachments/assets/01386f60-e81e-4065-9645-9beeac39929d" width="250" height="250 />
+
 
 A few resources to get you started if this is your first Flutter project:
 
